@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sn_auth_token" label="Credential Value" language="en" table="var__m_sys_hub_step_ext_output_fc57ae574f1ac050f25c4f00a310c7c4">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sn_auth_token</element>
+            <help/>
+            <hint/>
+            <label>Credential Value</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_fc57ae574f1ac050f25c4f00a310c7c4</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-17 21:51:03</sys_created_on>
+            <sys_id>8957ae574f1ac050f25c4f00a310c7d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Credential Value</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_438330_ipinfo_sp">97592c764f564050f25c4f00a310c744</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">97592c764f564050f25c4f00a310c744</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_fc57ae574f1ac050f25c4f00a310c7c4_sn_auth_token_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-17 21:51:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
